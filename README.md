@@ -1,2 +1,2 @@
-# etech-docker-repos
-etech docker repo cloned for demo purposes
+# docker_auto
+testing image autobuild
